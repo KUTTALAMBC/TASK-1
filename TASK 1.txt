@@ -1,0 +1,29 @@
+session 1
+
+STATIC TYPED LANGUAGE:
+
+the variable and its types must be specied at the compailing time its self
+eg.. c++, java, etc
+
+
+DYNAMICTYPED LANGUAGE:
+
+the lanuage its self find the type of variable ,thouse it is easy for the programmer to write and finish the programme
+ because he dont need to specifies the type of variable every time eg,,javascript,python
+ 
+ 
+SCRIPTING LANGUAGE:
+
+java script is known as scripting language because it dont need of compiling before runing the programme
+
+PROGRAMMING LANGUAGE:
+
+before running the programme the programming language needs compailing,eg c++
+
+
+HTTP1.1 vs HTTP 2.0
+
+ HTTP1.1 an application protocol,for communication on the World Wide Web,
+ that exchanges information between a client computer and a local or remote web server.
+ while http/2 is intraduced On 2015 to decrease the latency, especially when dealing with mobile platforms and server-intensive graphics and videos.
+ HTTP/2 uses the binary framing layer to encapsulate all messages in binary format.
